@@ -1,0 +1,7 @@
+Feature	             Static Array	  Dynamic Array
+Size	               Fixed	        Variable
+Memory Allocation	Compile-time	    Run-time
+Flexibility	           Rigid	        Flexible
+Example	            int arr[10];	    ArrayList<Integer>
+Memory Efficiency	High (no overhead)	May have unused capacity
+Performance	Faster (no resizing)	    Slight overhead when resizing
